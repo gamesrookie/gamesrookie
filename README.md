@@ -2,7 +2,7 @@
 - 👀 I’m interested in development
 - 🌱 I’m currently learning all basics
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me gamesrookie
+- 📫 How to reach me @gamesrookie
 
 <!---
 gamesrookie/gamesrookie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

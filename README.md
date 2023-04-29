@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gamesrookie
-- 👀 I’m interested in development
-- 🌱 I’m currently learning all basics
+- 👀 I’m interested in development,automation
+- 🌱 I’m currently learning all basics of java, selenium
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @gamesrookie
 
